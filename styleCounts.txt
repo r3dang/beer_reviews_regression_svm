@@ -1,0 +1,95 @@
+Hefeweizen	618
+English Strong Ale	164
+Foreign / Export Stout	55
+German Pilsener	586
+American Double / Imperial IPA	3886
+Herbed / Spiced Beer	73
+Oatmeal Stout	102
+American Pale Lager	123
+Rauchbier	1938
+American Pale Ale (APA)	2288
+American Porter	2230
+Belgian Strong Dark Ale	146
+Russian Imperial Stout	2695
+American Amber / Red Ale	665
+American Strong Ale	166
+MÃ¤rzen / Oktoberfest	557
+American Adjunct Lager	242
+American Blonde Ale	357
+American IPA	4113
+Fruit / Vegetable Beer	1355
+English Bitter	267
+English Porter	367
+Irish Dry Stout	101
+American Barleywine	825
+American Double / Imperial Stout	5964
+Doppelbock	873
+American Stout	591
+Maibock / Helles Bock	225
+Dortmunder / Export Lager	31
+Euro Strong Lager	329
+Low Alcohol Beer	7
+Light Lager	503
+Euro Pale Lager	701
+Bock	148
+English India Pale Ale (IPA)	175
+Altbier	165
+KÃ¶lsch	94
+Pumpkin Ale	560
+Rye Beer	1798
+American Pale Wheat Ale	154
+Milk / Sweet Stout	69
+Schwarzbier	53
+Munich Dunkel Lager	141
+Vienna Lager	33
+American Amber / Red Lager	42
+Scottish Ale	78
+Witbier	162
+Saison / Farmhouse Ale	141
+American Black Ale	138
+English Brown Ale	495
+English Barleywine	133
+Extra Special / Strong Bitter (ESB)	667
+California Common / Steam Beer	11
+Euro Dark Lager	144
+Scotch Ale / Wee Heavy	2776
+English Pale Ale	1324
+Belgian Strong Pale Ale	632
+Belgian Pale Ale	144
+Tripel	257
+Flanders Oud Bruin	13
+American Brown Ale	314
+Smoked Beer	61
+Dunkelweizen	61
+Dubbel	165
+Keller Bier / Zwickel Bier	23
+Winter Warmer	259
+BiÃ¨re de Garde	7
+Belgian Dark Ale	175
+Irish Red Ale	83
+Chile Beer	11
+English Stout	136
+Czech Pilsener	1501
+Belgian IPA	128
+Black & Tan	122
+Cream Ale	69
+English Dark Mild Ale	21
+American Wild Ale	98
+Weizenbock	13
+American Double / Imperial Pilsner	14
+Scottish Gruit / Ancient Herbed Ale	65
+Wheatwine	455
+American Dark Wheat Ale	14
+American Malt Liquor	90
+Munich Helles Lager	650
+Kristalweizen	7
+English Pale Mild Ale	21
+Baltic Porter	514
+Old Ale	1052
+Quadrupel (Quad)	119
+Braggot	26
+Lambic - Fruit	6
+Lambic - Unblended	10
+Eisbock	8
+Flanders Red Ale	2
+Berliner Weissbier	10
